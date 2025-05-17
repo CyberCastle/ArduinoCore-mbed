@@ -1,0 +1,6 @@
+{
+    "name": "framework-arduino-mbed",
+    "description": "An mbed-os enabled Arduino core for STM32H7 based boards",
+    "version": "4.3.1",
+    "url": "https://github.com/CyberCastle/ArduinoCore-mbed"
+}
